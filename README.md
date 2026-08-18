@@ -49,10 +49,9 @@ Acolei minha vivência prática com resolução de incidentes de conectividade a
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcela-garcez&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-garcez&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" width="48%" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcela-garcez&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/marcela-garcez)
+
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-garcez&layout=compact&theme=tokyonight)](https://github.com/marcela-garcez)
 
 ---
 
