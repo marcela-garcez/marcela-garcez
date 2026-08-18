@@ -1,8 +1,8 @@
-# Olá, eu sou a Marcela Garcez 👋
+# Olá, eu sou a Marcela Garcez 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1565c0&height=200&section=header&text=Marcela%20Garcez&fontSize=42&fontColor=ffffff&desc=Desenvolvedora%20Python%20Back-end%20|%20Suporte%20técnico%20em%20Redes&descSize=18&descAlignY=62)
 
-Estudante de **Sistemas de Informação** na Fundação Educacional de Fernandópolis (FEF), com foco em desenvolvimento **Back-end em Python (FastAPI)**, **Arquitetura de Dados** e **Suporte Técnico em Redes Telecom**. 
+Estudante de Sistemas de Informação na Fundação Educacional de Fernandópolis (UNIFEF), com foco em desenvolvimento Back-end em Python (FastAPI), Arquitetura de Dados e Suporte Técnico em Redes Telecom. 
 
 Acolei minha vivência prática com resolução de incidentes de conectividade ao desenvolvimento de software de alta performance com uso de APIs modernas e Inteligência Artificial.
 
