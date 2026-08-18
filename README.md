@@ -24,6 +24,7 @@ Acolei minha vivência prática com resolução de incidentes de conectividade a
 **Redes & Infraestrutura:**
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Telecom](https://img.shields.io/badge/Redes_&_Suporte_Técnico-00599C?style=for-the-badge)
+![Service Desk](https://web.dio.me/track/954812a0-8f7e-4340-aeae-f35907dce527)
 
 **IA & Produtividade:**
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
