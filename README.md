@@ -1,8 +1,6 @@
 # Olá, eu sou a Marcela Garcez 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1565c0&height=200&section=header&text=Marcela%20Garcez&fontSize=42&fontColor=ffffff&desc=Desenvolvedora%20Python%20Back-end%20|%20Suporte%20técnico%20em%20Redes&descSize=18&descAlignY=62)
-
-Estudante de Sistemas de Informação na Fundação Educacional de Fernandópolis (UNIFEF), com foco em desenvolvimento Back-end em Python (FastAPI), Arquitetura de Dados e Suporte Técnico em Redes Telecom. 
+Estudante de Sistemas de Informação na Fundação Educacional de Fernandópolis (UNIFEF), com foco em desenvolvimento Back-end  (FastAPI), Arquitetura de Dados e Suporte Técnico em Redes Telecom. 
 
 Acolei minha vivência prática com resolução de incidentes de conectividade ao desenvolvimento de software de alta performance com uso de APIs modernas e Inteligência Artificial.
 
@@ -10,10 +8,13 @@ Acolei minha vivência prática com resolução de incidentes de conectividade a
 
 ### 🛠️ Minhas Tecnologias & Stacks
 
+
 **Linguagens & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
