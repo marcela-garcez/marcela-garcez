@@ -1,8 +1,8 @@
-# Olá, eu sou a Marcela Garcez 
+# Olá, Marcela Garcez 
 
 Estudante de Sistemas de Informação na Fundação Educacional de Fernandópolis (UNIFEF), com foco em desenvolvimento Back-end  (FastAPI), Arquitetura de Dados e Suporte Técnico em Redes Telecom. 
 
-Acolei minha vivência prática com resolução de incidentes de conectividade ao desenvolvimento de software de alta performance com uso de APIs modernas e Inteligência Artificial.
+Minha vivência prática com resolução de incidentes de conectividade ao desenvolvimento de software de alta performance com uso de APIs modernas e Inteligência Artificial.
 
 ---
 
